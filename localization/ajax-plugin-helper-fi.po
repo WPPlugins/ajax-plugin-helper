@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Plugin Helper (finnish translation)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-12 17:22-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matt Martz <matt@sivel.net>\n"
+"Language-Team: C. Hellberg <kaannokset.hellberg@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nx\n"
+"X-Poedit-Basepath: /var/www/trunk/wp-content/plugins/ajax-plugin-helper\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax-plugin-helper.php:105
+msgid "Ajax Plugin Helper has determined that it cannot provide access to the Ajax Upgrade and Ajax Delete functionality because your install cannot perform file system level tasks without prompting for FTP/SFTP connection information. Please consult the FAQ at "
+msgstr "Ajax Plugin Helper on huomannut, että sillä ei ole oikeuksia Päivittää tai Poistaa Ajaxilla-toimintoja. Siihen on syynä se, että asennustasi ei voida tehdä ilman FTP/SFTP-yhteystietoja. Ole hyvä ja lue UKK (FAQ)"
+
+#: ajax-plugin-helper.php:190
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr "Kaikki <span class=\"count\">(%s)</span>"
+
+#: ajax-plugin-helper.php:193
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgstr "Aktiiviset <span class=\"count\">(%s)</span>"
+
+#: ajax-plugin-helper.php:197
+#, php-format
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgstr "Hiljattain käytössä <span class=\"count\">(%s)</span>"
+
+#: ajax-plugin-helper.php:201
+#, php-format
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgstr "Poissa käytöstä <span class=\"count\">(%s)</span>"
+
+#: ajax-plugin-helper.php:205
+#, php-format
+msgid "Upgrade Available <span class=\"count\">(%s)</span>"
+msgstr "Päivitys saatavilla <span class=\"count\">(%s)</span>"
+
+#: ajax-plugin-helper.php:210
+#, php-format
+msgid "Search Results <span class=\"count\">(%s)</span>"
+msgstr "Hakutulokset <span class=\"count\">(%s)</span>"
+
+#: ajax-plugin-helper.php:302
+#: ajax-plugin-helper.php:452
+#: ajax-plugin-helper.php:453
+#: ajax-plugin-helper.php:600
+#: ajax-plugin-helper.php:614
+msgid "Loading..."
+msgstr "Ladataan..."
+
+#: ajax-plugin-helper.php:414
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a>."
+msgstr "Uusi versio %1$s-lisäosasta on saatavilla. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">Näytä %4$s sen versiotiedot</a>."
+
+#: ajax-plugin-helper.php:416
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> <em>automatic upgrade unavailable for this plugin</em>."
+msgstr "Uusi versio %1$s-lisäosasta on saatavilla. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">Näytä version %4$s tiedot</a> <em>Automaattinen päivitys ei ole  mahdollista tälle lisäosalle</em>."
+
+#: ajax-plugin-helper.php:418
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> or <a href=\"%5$s\">upgrade automatically</a>."
+msgstr "UUsi versio %1$s-lisäosasta on saatavilla. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">Näytä version %4$s tiedot</a> or <a href=\"%5$s\">Päivitä automaattisesti</a>."
+
+#: ajax-plugin-helper.php:420
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> or <a class=\"ajaxpluginupdate %5$s-update\" rel=\"%6$s\" href=\"\">Ajax Upgrade</a>."
+msgstr "Uusi versio %1$s-lisäosasta on saatavilla. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">Näytä version %4$s tiedot</a> or <a class=\"ajaxpluginupdate %5$s-update\" rel=\"%6$s\" href=\"\">Päivitä Ajaxila</a>."
+
+#: ajax-plugin-helper.php:456
+msgid "Ajax Upgrade"
+msgstr "Päivitä Ajaxilla"
+
+#: ajax-plugin-helper.php:461
+#: ajax-plugin-helper.php:464
+msgid "Ajax Activate"
+msgstr "Aktivoi Ajaxilla"
+
+#: ajax-plugin-helper.php:461
+#: ajax-plugin-helper.php:464
+msgid "Ajax Deactivate"
+msgstr "Poista käytöstä Ajaxilla"
+
+#: ajax-plugin-helper.php:466
+#: ajax-plugin-helper.php:471
+msgid "Ajax Delete"
+msgstr "Poista Ajaxilla"
+
+#: ajax-plugin-helper.php:586
+msgid "Ajax Upgrade All"
+msgstr "Päivitä kaikki Ajaxilla"
+

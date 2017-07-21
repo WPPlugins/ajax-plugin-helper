@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Plugin Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-12 17:22-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matt Martz <matt@sivel.net>\n"
+"Language-Team: Matt Martz <matt@sivel.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nx\n"
+"X-Poedit-Basepath: /var/www/trunk/wp-content/plugins/ajax-plugin-helper\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax-plugin-helper.php:105
+msgid "Ajax Plugin Helper has determined that it cannot provide access to the Ajax Upgrade and Ajax Delete functionality because your install cannot perform file system level tasks without prompting for FTP/SFTP connection information. Please consult the FAQ at "
+msgstr ""
+
+#: ajax-plugin-helper.php:190
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ajax-plugin-helper.php:193
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ajax-plugin-helper.php:197
+#, php-format
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ajax-plugin-helper.php:201
+#, php-format
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ajax-plugin-helper.php:205
+#, php-format
+msgid "Upgrade Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ajax-plugin-helper.php:210
+#, php-format
+msgid "Search Results <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ajax-plugin-helper.php:302
+#: ajax-plugin-helper.php:452
+#: ajax-plugin-helper.php:453
+#: ajax-plugin-helper.php:600
+#: ajax-plugin-helper.php:614
+msgid "Loading..."
+msgstr ""
+
+#: ajax-plugin-helper.php:414
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a>."
+msgstr ""
+
+#: ajax-plugin-helper.php:416
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> <em>automatic upgrade unavailable for this plugin</em>."
+msgstr ""
+
+#: ajax-plugin-helper.php:418
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> or <a href=\"%5$s\">upgrade automatically</a>."
+msgstr ""
+
+#: ajax-plugin-helper.php:420
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> or <a class=\"ajaxpluginupdate %5$s-update\" rel=\"%6$s\" href=\"\">Ajax Upgrade</a>."
+msgstr ""
+
+#: ajax-plugin-helper.php:456
+msgid "Ajax Upgrade"
+msgstr ""
+
+#: ajax-plugin-helper.php:461
+#: ajax-plugin-helper.php:464
+msgid "Ajax Activate"
+msgstr ""
+
+#: ajax-plugin-helper.php:461
+#: ajax-plugin-helper.php:464
+msgid "Ajax Deactivate"
+msgstr ""
+
+#: ajax-plugin-helper.php:466
+#: ajax-plugin-helper.php:471
+msgid "Ajax Delete"
+msgstr ""
+
+#: ajax-plugin-helper.php:586
+msgid "Ajax Upgrade All"
+msgstr ""
+
